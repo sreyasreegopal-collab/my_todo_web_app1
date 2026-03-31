@@ -1,3 +1,7 @@
 wash
 run
 sleep
+clean
+read
+study
+buy
